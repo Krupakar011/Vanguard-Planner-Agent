@@ -1,5 +1,8 @@
 # Project Overview--->Vanguard-Planner-Agent 
 
+This project brings to life Agent Shutton—a smart, multi-agent system created to help users craft diverse blog posts with ease. Built using Google’s Agent Development Kit (ADK), it uses a flexible, modular design that lets the agent coordinate specialized tasks smoothly, resulting in high-quality, customized content. By combining the strengths of advanced Google tools and a clean architecture, Agent Shutton makes blog writing more creative, efficient, and accessible for everyone.​
+![Uploading generated-image (13).png…]()
+
 ### Problem Statement.
 Writing blogs by hand can take a lot more energy than it seems at first. Each post requires hours of research, outlining, drafting, editing, and formatting, and starting from scratch every time can quickly wear you down. Trying to keep the structure consistent and the tone steady across multiple articles only adds to the mental fatigue. As content needs grow, manual writing becomes even harder to scale, forcing creators to choose between producing fewer posts or sacrificing quality — unless they hire additional help. Automation can ease much of this burden by gathering research, creating first drafts, keeping formatting consistent, and managing publishing schedules. This frees writers to spend their time on strategy, creativity, and the kind of insight that truly requires a human touch.
 
