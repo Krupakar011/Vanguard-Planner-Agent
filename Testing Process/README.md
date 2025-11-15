@@ -1,6 +1,6 @@
 # Blogger Agent Tests
 
-This directory contains integration tests for the `vVanguard-agent`.
+This directory contains integration tests for the `Vanguard-agent`.
 
 ## How to Run
 
