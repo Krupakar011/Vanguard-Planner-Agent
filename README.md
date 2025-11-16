@@ -1,7 +1,7 @@
 # Project Overview--->Vanguard-Planner-Agent 
 
 This project brings to life Agent Shutton—a smart, multi-agent system created to help users craft diverse blog posts with ease. Built using Google’s Agent Development Kit (ADK), it uses a flexible, modular design that lets the agent coordinate specialized tasks smoothly, resulting in high-quality, customized content. By combining the strengths of advanced Google tools and a clean architecture, Agent Shutton makes blog writing more creative, efficient, and accessible for everyone.​
-![Uploading Thumbnail.dk.png…]()
+[![Uploading Thumbnail.dk.png…]()](https://github.com/Krupakar011/Vanguard-Planner-Agent/blob/main/Thumbnail.dk.png)
 
 
 ### Problem Statement.
